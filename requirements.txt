@@ -1,0 +1,9 @@
+# Elasticsearch
+elasticsearch>=8.0.0
+
+# Timesketch
+timesketch-api-client>=20230809
+timesketch-import-client>=20230809
+
+# Utilities
+requests>=2.28.0
