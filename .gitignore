@@ -20,6 +20,9 @@ wheels/
 .installed.cfg
 *.egg
 
+.gitignore
+app.py
+
 # Virtual Environments
 venv/
 .venv/
