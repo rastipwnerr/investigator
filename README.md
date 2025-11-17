@@ -217,6 +217,7 @@ python main_app.py \
 python main_app.py \
     --organize \
     --source-dir /mnt/forensic_image \
+    --move \
     --case-name FullTimeline \
     --platform elk \
     --all
